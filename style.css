@@ -1,0 +1,124 @@
+div.h1 {
+    border: 1px solid black;
+    width: 99%;
+    height: 80px;
+}
+
+div.logo {
+    margin: 30px;
+    float: left;
+}
+
+div.signIn {
+    margin: 30px;
+    float: right;
+}
+
+button.signIn {
+    background: rgb(18, 140, 240);
+    color: white;
+}
+
+
+div.h2 {
+    border: 1px solid black;
+    width: 99%;
+    height: 40px;
+}
+
+div.game {
+    border: 1px solid black;
+    margin: 10px;
+    float: left;
+}
+
+div.results {
+    border: 1px solid black;
+    margin: 10px;
+    float: left;
+}
+
+div.side {
+    border: 1px solid black;
+    width: 25%;
+    height: 1500px;
+    float: left;
+}
+
+div.search{
+    border: 1px solid black;
+    margin: 20px 10px;
+    height:30px;
+}
+
+input#search{
+    border: 1px solid black;
+    margin: 5px;
+    width: 200px;
+    
+}
+
+div.filters {
+    border: 1px solid black;
+    margin: 20px 5px;
+}
+
+
+div.body {
+    border: 1px solid black;
+    width: 74%;
+    height: 1500px;
+    float: left;
+}
+
+div.freesort {
+    border: 1px solid black;
+    margin: 20px 50px;
+    width: 90%;
+    height: 50px;
+}
+
+
+button.match {
+    margin: 10px;
+    float: left;
+}
+
+button.date {
+    float: right;
+    margin: 10px;
+}
+
+button.clear{
+    margin: 10px;
+}
+
+div.posts{
+    border: 1px solid black;
+    margin:50px;
+    height: 275px;
+    width: 90%;
+}
+
+div.postTitle {
+    border: 1px solid black;
+    margin: 10px;
+    width: 65%;
+    height: 25%;
+    font-size: large;
+    float: left;
+}
+
+div.likes {
+    border: 1px solid black;
+    margin: 30px;
+    width: 15%;
+    height: 10%;
+    font-size: large;
+    float:right;
+}
+
+button.save {
+    margin: 30px;
+    float:right;
+}
